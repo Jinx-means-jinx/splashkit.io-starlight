@@ -2,7 +2,7 @@
 
 int main()
 {
-    open_window("House Drawing", 800, 600);
+    open_window("Back Ground", 800, 600);
 
     clear_screen(COLOR_WHITE);
     refresh_screen();
