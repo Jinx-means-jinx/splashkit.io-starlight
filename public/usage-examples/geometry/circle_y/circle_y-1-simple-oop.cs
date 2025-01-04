@@ -29,7 +29,7 @@ namespace CircleY
             // Print result on window
             SplashKit.DrawText(text, Color.Black, 100, 100);
 
-            // Draw 10 circles with radient 50 and the same circle y coordinate
+            // Draw 10 circles with radient 50 and the same circle y coordinate.
             for (int i = 0; i < 10; i++)
             {
                 int x = i * 60 + 100;
