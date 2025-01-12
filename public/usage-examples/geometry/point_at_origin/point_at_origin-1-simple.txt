@@ -1,3 +1,7 @@
-#### Create Point At Origin
+#### Red Dot At Origin
 
+<<<<<<< HEAD
 The following code shows an examples of using [Point At Origin](/api/geometry/#point-at) to show how to create a origin.
+=======
+The following code shows an example of using [Point At Origin](/api/geometry/#point-at-origin) to show the location of the origin point with a small red dot.
+>>>>>>> 5163b4e104893852aa36c4b37e4e62f72397b0bb
